@@ -1,0 +1,26 @@
+html{
+    
+    font-size: 62.5%;
+}
+body{
+    font-size: 16px;
+    font-family: 'Krub', sans-serif;
+}
+.titulo{
+    font-size: 3rem;
+    text-align: right;
+    background-color: #FCFCFC; 
+}
+.Sp{
+    font-size: 2rem;
+}
+.Sps{
+    font-size: 2.2rem;
+}
+.Part1{
+    font-size: 2rem;
+}
+
+.Cvt{
+
+}
