@@ -61,14 +61,14 @@ body{
 
 .centradonegro{
     text-align: center;
-    background-color: black;
+    background-color: #3D3D3D;
     color: white;
    font-size: 25px;
    height: 65px;   
    padding: 10px 0;   
 }
 .divfondonegro{
-    background-color: black;
+    background-color: #3D3D3D
 }
 .alineaciontextoizquierda{
     text-align: left;
